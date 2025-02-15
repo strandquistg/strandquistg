@@ -27,8 +27,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
-- 🌍: I use AI and Data Science to bring biomedical technologies to real-world environments.
+I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US. I earned [my Ph.D. in Computer Science](https://elliestrandquist.com/wp-content/uploads/2024/12/gs_final_Dissertate_2024.pdf) from the University of Washington!
+- 🌍 I use AI and Data Science to bring biomedical technologies to real-world environments.
 
 - :seedling: I’m currently learning about Participatory Action Research for co-designing neurotechnologies with end-users.
 
@@ -62,6 +62,7 @@ I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlpl
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
