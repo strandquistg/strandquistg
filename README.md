@@ -24,7 +24,17 @@
   <h2>Hi there 👋</h2>
 </div>
 
+---
 
+### :woman_technologist: About Me :
+I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
+- :telescope: I use AI and Data Science to bring biomedical technologies to real-world environments.
+
+- :seedling: I’m currently learning about Participatory Action Research for co-designing neurotechnologies with end-users.
+
+- :zap: In my free time I travel, dance Argentine tango, and consume musical theatre.
+
+- :mailbox: How to reach me: send me a note at estrandquist@gmail.com, or better yet text me at +1 (434) 270-2032
 <!--
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxyaXRnbzZscGpydmVrYjdyb2dlMXh4c2FlMXd4OTRmc3UzYTV2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif
 
