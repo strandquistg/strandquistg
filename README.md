@@ -70,6 +70,13 @@ I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/lmcinnes/umap/blob/master/doc/logo_large.png" title="UMAP" **alt="UMAP" width="60" height="40"/>
 </div>
 
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strandquistg&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxyaXRnbzZscGpydmVrYjdyb2dlMXh4c2FlMXd4OTRmc3UzYTV2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif
 
