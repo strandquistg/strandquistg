@@ -71,7 +71,11 @@ I am a Computer Science Researcher <img src="https://media.giphy.com/media/WUlpl
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" **alt="Html" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/allenai/ai2thor/24f79883b4889e3f0e6f4ae301808b9025872dfc/doc/static/Ai2-THOR.svg" title="AI2THOR" **alt="AI2THOR" width="70" height="40"/>
+
+  
 </div>
 
 
